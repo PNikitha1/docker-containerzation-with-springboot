@@ -1,0 +1,11 @@
+
+.mvn
+.git
+*.log
+**/node_modules
+*.class
+*.jar
+Dockerfile
+.idea
+.vscode
+*.iml
